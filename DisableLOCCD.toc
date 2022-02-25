@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: DisableLOCCD
+## Version: 1
+## Notes: Disable Loss Of Control Cooldown
+## Author: Jax
+
+DisableLOCCD.lua
