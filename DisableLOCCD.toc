@@ -1,6 +1,6 @@
 ## Interface: 90200
 ## Title: DisableLOCCD
-## Version: 1
+## Version: 1.1
 ## Notes: Disable Loss Of Control Cooldown
 ## Author: Jax
 
